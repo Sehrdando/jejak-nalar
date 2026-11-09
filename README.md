@@ -17,7 +17,7 @@
   1. Ketua Tim / Developer: `@riberii`
   2. Anggota Tim: *Nicho@Jellyboom666*
   3. Anggota Tim: *Owen*
-  4. Anggota Tim: *Orlando*
+  4. Anggota Tim: *Orlando@Sehrdando*
 * **Kategori Kompetisi:** Web Application
 * **Subtema:** Smart & Fun Education
 
